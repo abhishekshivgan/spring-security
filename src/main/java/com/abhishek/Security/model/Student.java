@@ -1,4 +1,4 @@
-package com.abhishek.Security;
+package com.abhishek.Security.model;
 
 public class Student {
 	private int id;
